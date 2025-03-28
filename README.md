@@ -1,12 +1,12 @@
 # Module 4: K-Means Python Application
 
-This is a Python application built for **Module 4** of a data science course. It applies the **K-Means clustering algorithm** to New York City Yellow Taxi data to uncover patterns in ride distances, fares, and rider behaviours.
+This is a Python application built for **Module 4 Assignment: K-Means Python Application** . It applies the **K-Means clustering algorithm** to New York City Yellow Taxi data to uncover patterns in ride distances, fares, and rider behaviours.
 
 The project is organised under the folder `PythonProject` and tracked using Git, as shown in the repository structure.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PythonProject/
@@ -19,7 +19,7 @@ PythonProject/
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 To install dependencies, run:
 
@@ -29,7 +29,7 @@ pip install pandas scikit-learn matplotlib seaborn pyarrow
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Download the dataset from the official source:
 
@@ -51,7 +51,7 @@ pytest test_kmeans.py
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The file `test_kmeans.py` includes unit tests that confirm:
 - The clustering process runs successfully
@@ -60,7 +60,7 @@ The file `test_kmeans.py` includes unit tests that confirm:
 
 ---
 
-## 📊 Output
+## Output
 
 The clustering algorithm generates a scatter plot showing ride groupings based on:
 
@@ -74,17 +74,17 @@ This helps identify common ride types such as:
 
 ---
 
-## 📚 Dataset
+## Dataset
 
 **Source:** NYC Taxi TLC Trip Record Data  
 **Download link:** [https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-01.parquet)
 
-> ⚠️ The dataset should be placed locally in the project folder but is not tracked by Git.
+> The dataset should be placed locally in the project folder but is not tracked by Git.
 
 ---
 
 ## 👨‍💻 Author
 
-*Your Name*  
+*Alade Adetola*  
 Module 4 Assignment – K-Means Clustering Application  
-*Course/Instructor Name (if required)*
+
