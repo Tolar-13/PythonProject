@@ -83,7 +83,7 @@ This helps identify common ride types such as:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 *Alade Adetola*  
 Module 4 Assignment – K-Means Clustering Application  
